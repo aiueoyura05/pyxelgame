@@ -1,5 +1,4 @@
 # pyxelgame
->火の玉を7個以上取るとクリアするゲーム
 >pyxel run main.py を実行
 
 
