@@ -2,6 +2,5 @@
 >火の玉を7個以上取るとクリアするゲーム
 >pyxel run main.py を実行
 
-https://github.com/aiueoyura05/pyxelgame/assets/104673838/f6e185cc-78ca-449b-8386-004febbd8f3c
-https://github.com/aiueoyura05/pyxelgame/assets/104673838/755a5abe-32e5-4a89-9a30-6c83d6b4b2e9
 
+<img width="749" alt="スクリーンショット 2023-09-20 1 59 03" src="https://github.com/aiueoyura05/pyxelgame/assets/104673838/5a8c191e-757c-4a85-b20b-6e106a2d82c4">
